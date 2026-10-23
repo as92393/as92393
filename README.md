@@ -15,11 +15,17 @@ I study regularization methods for nonlinear inverse problems and ill-posed oper
 - Noise propagation and uncertainty quantification
 - Numerical analysis and scientific computing
 
+## Current research directions
+
+- Adaptive and statistical regularization for nonlinear inverse problems
+- Oracle-type convergence and error analysis under uncertain noise
+- Uncertainty-aware iterative reconstruction and reliable numerical methods
+
 ## Academic background
 
 - **Ph.D. in Mathematics**, Visvesvaraya National Institute of Technology (VNIT), Nagpur, 2024
 - **Ph.D. supervisor:** Prof. Pallavi Mahale
-- **Current position:** Assistant Professor of Mathematics, SVKM’s College of Engineering, Shirpur
+- **Current position:** Assistant Professor of Mathematics, SVKM’s College of Engineering
 - **Publications:** Five peer-reviewed journal articles
 
 ## Selected publication
@@ -29,7 +35,7 @@ A. Singh, “A simplified iterated Lavrentiev regularization method for nonlinea
 
 ## Postdoctoral interests
 
-I am interested in funded postdoctoral opportunities and research collaborations in Europe, especially in inverse problems, regularization theory, numerical analysis, and uncertainty-aware reconstruction.
+I am seeking funded postdoctoral opportunities and research collaborations in Europe, especially in inverse problems, regularization theory, numerical analysis, and uncertainty-aware reconstruction.
 
 ## Connect
 
